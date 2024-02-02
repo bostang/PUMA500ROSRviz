@@ -2,7 +2,7 @@
 > Simulation of six degree of freedom robotics arm : PUMA 500 using ROS, RViz, and Gazeboo
 This repo contains a URDF file and a launch script to run it. (ROS 2)
 
-![6DoFArm](./6DoF_arm.jpg)
+![6DoFArm](./6DoFArm.jpg)
 
 ## How To Run
 1. Build the package with colcon.
